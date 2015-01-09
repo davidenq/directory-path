@@ -1,0 +1,37 @@
+{
+  "name" : "directory-path",
+  "version" : "0.1.1",
+  "description" : "A simple node module for recursively reading directory and nested directories paths",
+  "keywords" : [ "directory", "paths" ],
+  "scripts" : {
+    "test" : "mocha test"
+  },
+  "engine" : {
+    "node" : ">=0.10.*"
+  },
+  "devDependencies" : {
+    "chai" : "1.10.0",
+    "mocha" : "2.1.0"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/davidenq/directory-path"
+  },
+  "bugs" : {
+    "url" : "https://github.com/davidenq/directory-path/issues"
+  },
+  "author" : {
+    "name" : "David Núñez",
+    "email" : "davip@live.com",
+    "url" : "https://github.com/davidenq"
+  },
+  "license" : {
+    "type" : "MIT"
+  },
+  "maintainers" : {
+    "name" : "David Núñez",
+    "email" : "davip@live.com"
+  },
+  "main" : "index.js",
+  "readmeFilename": "README.md"
+}
