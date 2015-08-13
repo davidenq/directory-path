@@ -1,7 +1,6 @@
 'use strict';
 
-var path = require('path'),
-    fs   = require('fs');
+var fs   = require('fs');
 
 var readContent   = [],
     relativePaths = [],
@@ -17,7 +16,7 @@ module.exports = function(nameDirectory){
         readContent = fs.readdirSync(nameDirectory);
         for (var i in readContent) {
             if (readContent[i].indexOf('.') == -1) {
-                if(readContent[i] != 'Makefile'){
+                if(fs.lstatSync(nameDirectory + '/' + readContent[i]).isDirectory()){
                     relativePaths.push(nameDirectory + '/' + readContent[i]);
                 }
             }
