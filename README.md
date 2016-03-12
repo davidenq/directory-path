@@ -1,7 +1,7 @@
 
 #English version
 
->**_Note: I recommend using a new module called [fullpath](https://www.npmjs.com/package_/fullpath)._**
+>**_Note: I recommend using a new module called [fullpath](https://www.npmjs.com/package/fullpath)._**
 
 # directory-path
 
