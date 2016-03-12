@@ -1,6 +1,6 @@
 {
   "name" : "directory-path",
-  "version" : "0.1.2",
+  "version" : "0.1.3",
   "description" : "A simple node module for recursively reading directory and nested directories paths",
   "keywords" : [ "directory", "paths" ],
   "scripts" : {
