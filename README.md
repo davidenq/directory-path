@@ -1,5 +1,7 @@
 
->#English version
+#English version
+
+>**_Note: I recommend using a new module called [fullpath](https://www.npmjs.com/package_/fullpath)._**
 
 # directory-path
 
@@ -70,7 +72,9 @@ If you need help using directory-path, or have found a bug, please create an iss
 MIT Licence
 
 
->#Versión Español
+#Versión Español
+
+>**_Note: Recomiendo usar un nuevo módulo llamado [fullpath](https://www.npmjs.com/package/fullpath)._**
 
 #directory-path
 
@@ -141,3 +145,4 @@ Si necesitas ayuda usando el módulo directory-path, o si encuentras un bug, por
 ## Licencia
 
 MIT Licence
+
