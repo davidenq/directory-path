@@ -5,8 +5,8 @@ Note: I recommend an alternative module called fullpath.  Fullpath module has mo
 # directory-path
 
 
-[![NPM](https://img.shields.io/npm/v/coditor.svg)](https://www.npmjs.com/package/directory-path)
-[![Downloads](https://img.shields.io/npm/dm/coditor.svg)](http://npm-stat.com/charts.html?package=directory-path)
+[![NPM](https://img.shields.io/npm/v/directory-path.svg)](https://www.npmjs.com/package/directory-path)
+[![Downloads](https://img.shields.io/npm/dm/directory-path.svg)](http://npm-stat.com/charts.html?package=directory-path)
 
 A node.js module for recursively reading directory and nested directories paths.
 
